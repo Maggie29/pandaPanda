@@ -1,0 +1,12 @@
+ul{
+  background-color: #BC0808;
+}
+li{
+  display: inline-block;
+  list-style: none;
+  padding: 20px;
+}
+a{
+  color: white;
+  padding: 10px;
+}
